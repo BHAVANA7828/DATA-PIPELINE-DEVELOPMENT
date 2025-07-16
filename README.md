@@ -45,5 +45,5 @@ A sample healthcare dataset is simulated, containing:
 ## 📂 Output Files
 - 'raw_healthcare_data.csv': Original simulated data
 - 'processed_healthcare_data.csv': Cleaned and transformed data
-  
-
+## OUTPUT:
+  <img width="1919" height="992" alt="Image" src="https://github.com/user-attachments/assets/429eabb0-143a-4347-a071-ca8fccbf00dd" />
